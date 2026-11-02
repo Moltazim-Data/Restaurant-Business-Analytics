@@ -1,0 +1,10 @@
+{
+  "data_type": "synthetic",
+  "period_start": "2025-01-01",
+  "period_end": "2025-12-31",
+  "orders": 10385,
+  "order_lines": 25639,
+  "menu_items": 18,
+  "staffing_hour_records": 4380,
+  "currency": "EUR"
+}
