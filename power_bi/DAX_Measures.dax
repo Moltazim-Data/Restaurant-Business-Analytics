@@ -1,0 +1,13 @@
+Net Sales = SUM(order_items[net_sales_eur])
+
+Orders = DISTINCTCOUNT(orders[order_id])
+
+Average Order Value = DIVIDE([Net Sales], [Orders])
+
+Estimated Food Cost = SUM(order_items[food_cost_eur])
+
+Estimated Food Gross Profit = [Net Sales] - [Estimated Food Cost]
+
+Estimated Food Gross Margin % = DIVIDE([Estimated Food Gross Profit], [Net Sales])
+
+Units Sold = SUM(order_items[quantity])
