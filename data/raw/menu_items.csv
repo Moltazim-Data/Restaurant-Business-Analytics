@@ -1,0 +1,19 @@
+menu_item_id,item_name,category,list_price_eur,unit_food_cost_eur,target_food_cost_pct
+M001,Classic Burger,Burgers,14.9,4.5,0.302
+M002,Double Cheeseburger,Burgers,17.9,6.0,0.335
+M003,Grilled Chicken Bowl,Bowls,15.8,4.8,0.304
+M004,Pepperoni Pizza,Pizza,16.5,5.1,0.309
+M005,Margherita Pizza,Pizza,14.2,3.9,0.275
+M006,Chicken Wrap,Wraps,12.9,3.7,0.287
+M007,Veggie Burger,Burgers,14.5,4.2,0.290
+M008,BBQ Bacon Burger,Burgers,16.9,5.4,0.320
+M009,Caesar Salad,Salads,13.5,3.8,0.281
+M010,Greek Salad,Salads,12.9,3.5,0.271
+M011,Four Cheese Pizza,Pizza,17.2,5.8,0.337
+M012,BBQ Chicken Pizza,Pizza,17.5,5.6,0.320
+M013,Beef Burrito,Bowls,15.2,4.7,0.309
+M014,Salmon Bowl,Bowls,18.5,6.7,0.362
+M015,Fries,Sides,5.5,1.2,0.218
+M016,Onion Rings,Sides,6.0,1.5,0.250
+M017,Chocolate Brownie,Desserts,6.5,1.6,0.246
+M018,Soft Drink,Drinks,3.5,0.6,0.171
